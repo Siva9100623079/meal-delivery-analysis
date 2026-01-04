@@ -55,7 +55,7 @@ Data Analyst | Solving problems using data and code
  
  🔗 [LinkedIn](https://www.linkedin.com/in/siva-satya-varaprasad-vasamsetti-73b006266/)
 
-## ⭐ Support
+##  Support
 
 If you found this project insightful, please consider starring the repo to support my work and help others discover it!
 
